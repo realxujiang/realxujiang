@@ -4,7 +4,7 @@ My current main interest is in databases systems.
 
 I'm also a big fan of Rust language and try to involve the Rust community.
 
-Currently I am working on the database engine of pandadb at @[hetudb](https://github.com/hetudb).
+Currently I am working on the database engine of panda at @[hetudb](https://github.com/hetudb).
 
 I used to worked in the Snowberg team at Alibaba and am responsible for developing query engine and storage features.
 
