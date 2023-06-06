@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi, I'm 锡流, an open source lover.
 
-<!--
-**realxujiang/realxujiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My current main interest is in databases systems.
 
-Here are some ideas to get you started:
+I'm also a big fan of Rust language and try to involve the Rust community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently I am working on the database engine of hetudb at @hetudb.
+
+I used to worked in the Snowberg team at Alibaba and am responsible for developing query engine and storage features.
+
+You can find me at:
+
+[GitHub](https://github.com/realxujiang)
+[Twitter](https://twitter.com/realXuJiang)
+[Email](realxiliu@gmail.com)
