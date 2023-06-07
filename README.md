@@ -11,6 +11,8 @@ I used to worked in the Snowberg team at Alibaba and am responsible for developi
 > Snowberg is a project that serves Alibaba's internal e-commerce scenarios. Built on top of MySQL sharding, it supports secondary indexes and full-text indexes (based on Lucene). It also supports materialized and full-text index table engines. Snowberg adopts a storage-computation separation architecture and is deployed in a multi-region manner. It serves various full-text search and online OLTP needs in e-commerce scenarios.
 > Serverless database is designed to provide multi-tenant management, comprehensive SQL support, and programmable SDK capabilities. Internally, it is primarily used in OLTP scenarios where data access is performed using programmable SDK.
 
+Before, I was responsible for the design and development of "Sage Data Platform" at 4Paradigm.
+
 You can find me at:
 
 * [GitHub](https://github.com/realxujiang)
