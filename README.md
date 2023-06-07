@@ -1,8 +1,8 @@
 Hi, I'm 锡流, an open source lover.
 
-My current main interest is in databases systems.
+My current main interest is in OLTP database systems.
 
-I'm also a big fan of Rust language and try to involve the Rust community.
+I'm also a loyal fan of the Rust language and look forward to developing an OLTP database system using Rust.
 
 Currently I am working on the database engine of panda at @[hetudb](https://github.com/hetudb).
 
