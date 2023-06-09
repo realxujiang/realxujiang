@@ -18,4 +18,4 @@ You can find me at:
 
 * [GitHub](https://github.com/realxujiang)
 * [Twitter](https://twitter.com/realXuJiang)
-* [Email](realxiliu@gmail.com)
+* [Email](realjiangxu@gmail.com)
