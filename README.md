@@ -17,6 +17,7 @@ Before, I was responsible for the design and development of "Sage Data Platform"
 You can find me at:
 
 * [GitHub](https://github.com/realxujiang)
+* [Blog](https://www.itweet.cn/)
 * [Twitter](https://twitter.com/realXuJiang)
 * [Email](realjiangxu@gmail.com)
 
