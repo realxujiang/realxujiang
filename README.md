@@ -19,3 +19,5 @@ You can find me at:
 * [GitHub](https://github.com/realxujiang)
 * [Twitter](https://twitter.com/realXuJiang)
 * [Email](realjiangxu@gmail.com)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=realxujiang&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
