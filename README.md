@@ -4,7 +4,7 @@ My current main interest is in OLTP database systems.
 
 I'm also a loyal fan of the Rust language and look forward to developing an OLTP database system using Rust.
 
-Currently I am working on the database engine of panda at @[hetudb](https://github.com/hetudb).
+Currently I am working on the database engine of hetu at @[hetudb](https://github.com/hetudb).
 
 I used to worked in the Snowberg team at Alibaba and am responsible for developing query engine and storage features.
 
