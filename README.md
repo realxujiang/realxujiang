@@ -1,4 +1,4 @@
-Hi, I'm 锡流, an open source lover.
+Hi, I'm leoxu, an open source lover.
 
 My current main interest is in OLTP database systems.
 
